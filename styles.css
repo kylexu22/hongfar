@@ -1,5 +1,5 @@
 /* ============================================
-   Hong Far Restaurant — Artisanal, Heritage
+   Hong Far Restaurant Ã¢â‚¬â€ Artisanal, Heritage
    ============================================ */
 
 :root {
@@ -796,4 +796,7 @@ body {
   .hero-logo {
     max-width: 90vw;
   }
+}
+.glf-button {
+  cursor: pointer;
 }
